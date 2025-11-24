@@ -91,7 +91,7 @@
 
 <img width="450" src="https://github-readme-stats.vercel.app/api?username=naren2608&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A878FF&icon_color=7A00FF&text_color=D3D3D3&bg_color=00000000&rank_icon=percentile"/>
 
-<img width="375" src="https://github-readme-stats.vercel.app/api/top-langs?username=naren2608&layout=compact&title_color=A878FF&icon_color=7A00FF&text_color=D3D3D3&bg_color=00000000"/>
+<img width="375" src="https://github-readme-stats.vercel.app/api/top-langs?username=NAREN2608&layout=compact&title_color=A878FF&icon_color=7A00FF&text_color=D3D3D3&bg_color=00000000"/>
 
 </div>
 
