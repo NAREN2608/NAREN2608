@@ -4,7 +4,6 @@
 
 <h3 align="center">
   Hola, soy Naren Stiven Cipagauta
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
 
 <p align="center">
