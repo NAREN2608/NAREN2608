@@ -1,16 +1,46 @@
-## Hi there 👋
+<!-- Banner minimalista -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=400080&height=80&section=header&text=Naren%20Stiven%20Cipagauta&fontColor=ffffff&fontSize=28"/>
+</div>
 
-<!--
-**NAREN2608/NAREN2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👾 Sobre mí
+Soy estudiante de **Ingeniería de Sistemas** con interés en el **desarrollo de videojuegos** y la creación de experiencias interactivas.  
+Me enfoco en aprender programación, optimización, arquitectura de sistemas y herramientas que apoyen el desarrollo de juegos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Intereses
+- Desarrollo de videojuegos  
+- Motores de juego (Unity / Unreal)  
+- Lógica y sistemas dentro de los juegos  
+- Optimización y rendimiento  
+- Programación general
+
+---
+
+## 🛠️ Tecnologías
+**Lenguajes:**  
+C#, Python, Java  
+
+**Motores:**  
+Unity, Unreal Engine  
+
+**Herramientas:**  
+Git, GitHub, VSCode
+
+---
+
+## 📊 Estadísticas (automáticas)
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=NarenCipagauta&show_icons=true&theme=tokyonight&hide_title=true"/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarenCipagauta&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=400080&height=60&section=footer"/>
+</div>
