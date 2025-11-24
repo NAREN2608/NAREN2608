@@ -21,12 +21,12 @@
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </picture>
 
-- 🎓 Estudiante de **Ingeniería de Sistemas** (UAN)  
-- 💻 Interesado en: Desarrollo backend, testing, mobile, IA aplicada y sistemas en general  
-- 🧪 Experiencia creando pruebas, reportando bugs y analizando comportamiento técnico  
-- 🛠️ Me enfoco en crear soluciones limpias, ordenadas y eficientes  
-- 🌱 Actualmente aprendiendo más sobre **backend**, **Kotlin**, **API design** y **optimizaciones**  
-- 🔍 Me encanta entender cómo funcionan las cosas por dentro  
+- 🎓 Estudiante de **Ingeniería de Sistemas**  
+- 💻 Interesado en: desarrollo backend, testing, mobile, sistemas y tecnología en general  
+- 🧪 Experiencia en pruebas funcionales, exploratorias y análisis técnico  
+- 🛠️ Me gusta crear soluciones limpias y estructuradas  
+- 🌱 Actualmente aprendiendo más sobre **Kotlin**, **backend**, **APIs** y **optimización de código**  
+- 🔍 Enfocado en mejorar cada día tanto técnica como profesionalmente  
 - 📬 Abierto a oportunidades laborales y proyectos
 
 <br><br>
@@ -71,15 +71,19 @@
 
 ---
 
-### 📌 Competencias
-- Pruebas funcionales y exploratorias  
-- Documentación de bugs  
-- Análisis técnico de sistemas  
-- Diseño básico de APIs y arquitectura  
-- Desarrollo móvil con Kotlin  
-- Desarrollo web básico  
-- Control de versiones  
-- Uso de metodologías ágiles (Scrum / Kanban)
+## 🤝 Habilidades Sociales
+
+<div align="center">
+
+🌟 **Trabajo en equipo** — Colaboro y aporto en ambientes cooperativos  
+🗣️ **Comunicación clara** — Explico ideas técnicas de forma sencilla  
+🧩 **Resolución de problemas** — Pienso de manera lógica y estructurada  
+⏳ **Gestión del tiempo** — Organizo tareas de forma eficiente  
+🎯 **Responsabilidad y compromiso** — Cumplo objetivos y entregas  
+📚 **Aprendizaje continuo** — Me adapto rápido a nuevas tecnologías  
+⚡ **Adaptabilidad** — Puedo trabajar en diferentes entornos y herramientas  
+
+</div>
 
 ---
 
