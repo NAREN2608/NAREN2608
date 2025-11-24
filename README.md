@@ -89,11 +89,12 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=NAREN2608&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A878FF&icon_color=7A00FF&text_color=D3D3D3&bg_color=00000000&rank_icon=percentile"/>
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=naren2608&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A878FF&icon_color=7A00FF&text_color=D3D3D3&bg_color=00000000&rank_icon=percentile"/>
 
-<img width="375" src="https://github-readme-stats.vercel.app/api/top-langs?username=NAREN2608&layout=compact&title_color=A878FF&icon_color=7A00FF&text_color=D3D3D3&bg_color=00000000"/>
+<img width="375" src="https://github-readme-stats.vercel.app/api/top-langs?username=naren2608&layout=compact&title_color=A878FF&icon_color=7A00FF&text_color=D3D3D3&bg_color=00000000"/>
 
 </div>
+
 
 ---
 
@@ -101,14 +102,17 @@
 <div align="center">
 
 <a href="mailto:narenestivencipagauta13@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-7a00ff?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Correo%20Electrónico-7a00ff?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/naren-stiven-cipagauta-estupiñan-002311174/">
   <img src="https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<img src="https://img.shields.io/badge/Teléfono-3113507862-5a0099?style=for-the-badge&logo=phone&logoColor=white">
+
 </div>
+
 
 ---
 
