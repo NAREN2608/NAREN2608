@@ -57,11 +57,15 @@
 
 ![Git](https://img.shields.io/badge/Git-7a00ff?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-2e004f?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-4b0082?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-3c0066?style=for-the-badge&logo=jira&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-4c0099?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-7a00ff?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-5a0099?style=for-the-badge&logo=postman&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5a0099?style=for-the-badge&logo=discord&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4b0082?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+![XAMPP](https://img.shields.io/badge/XAMPP-7a00ff?style=for-the-badge&logo=xampp&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-4c0099?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2e004f?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-5a0099?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
