@@ -86,6 +86,17 @@
 
 ---
 
+## 🌐 Idiomas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Español-Nativo-7a00ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/Inglés-B1/B2-4b0082?style=for-the-badge">
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
 
@@ -108,10 +119,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<img src="https://img.shields.io/badge/Teléfono-3113507862-5a0099?style=for-the-badge&logo=phone&logoColor=white">
+<img src="https://img.shields.io/badge/+57%203113507862-5a0099?style=for-the-badge&logo=phone&logoColor=white">
 
 </div>
-
 
 ---
 
