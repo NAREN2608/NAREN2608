@@ -114,7 +114,7 @@
 ✨ Aquí puedes consultar mi hoja de vida en un formato moderno, profesional y adaptable.  
 Incluye información sobre mi perfil, proyectos, habilidades técnicas y experiencia académica.✨
 
-<br>
+<br><br>
 
 <a href="https://naren2608.github.io/NAREN-CV/">
   <img src="https://img.shields.io/badge/Ver%20Hoja%20de%20Vida-7a00ff?style=for-the-badge&logo=files&logoColor=white">
