@@ -108,17 +108,18 @@
 
 ---
 
-## 📄 Mi Hoja de Vida
+## 📄 Hoja de Vida
 
 <div align="center">
 
+✨ Aquí puedes consultar mi hoja de vida en un formato moderno, profesional y adaptable.  
+Incluye información sobre mi perfil, proyectos, habilidades técnicas y experiencia académica.
+
+<br>
+
 <a href="https://naren2608.github.io/NAREN-CV/" target="_blank">
-  <img src="https://img.shields.io/badge/Abrir%20Hoja%20de%20Vida-4b0082?style=for-the-badge&logo=files&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ver%20Hoja%20de%20Vida-7a00ff?style=flat-square&logo=files&logoColor=white" />
 </a>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="260">
 
 </div>
 
