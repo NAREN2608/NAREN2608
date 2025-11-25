@@ -108,6 +108,23 @@
 
 ---
 
+## 📄 Mi Hoja de Vida
+
+<div align="center">
+
+<a href="https://naren2608.github.io/NAREN-CV/" target="_blank">
+  <img src="https://img.shields.io/badge/Abrir%20Hoja%20de%20Vida-4b0082?style=for-the-badge&logo=files&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="260">
+
+</div>
+
+---
+
+
 ## 🤝 Contacto
 <div align="center">
 
