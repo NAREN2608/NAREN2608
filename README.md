@@ -1,122 +1,45 @@
-El readme quedo sin svgs, este era el documento original de mi readme de presentacion 
-<div align="center">
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=7a00ff&text=Naren%20Cipagauta&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=35"/>
-</div>
-
-<h3 align="center">
-  Hola, soy Naren Stiven Cipagauta
-</h3>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=A878FF&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas;Desarrollador+de+Software;QA+%2F+Testing;Mobile+Developer+(Kotlin);Siempre+aprendiendo+nuevas+tecnologías">
-  </a>
+  <img src="assets/cover.svg" width="100%" alt="Naren Stiven Cipagauta. Desarrollo de software y web. Ingeniería de Sistemas, Universidad Antonio Nariño, Bogotá. Buscando prácticas, oportunidades y proyectos.">
 </p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/> Sobre mí
-<picture>
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</picture>
+<h2><img src="assets/h-perfil.svg" width="100%" alt="01 Perfil"></h2>
 
-- 🎓 Estudiante de Ingeniería de Sistemas
-- 💻 Interesado en: desarrollo backend, testing, mobile, sistemas y tecnología en general
-- 🧪 Experiencia en pruebas funcionales, exploratorias y análisis técnico
-- 🛠️ Me gusta crear soluciones limpias y estructuradas
-- 🌱 Actualmente aprendiendo más sobre Kotlin, backend, APIs y optimización de código
-- 🔍 Enfocado en mejorar cada día tanto técnica como profesionalmente
-- 📬 Abierto a oportunidades laborales y proyectos
+Mi orientación es el desarrollo de software y el desarrollo web: backend, frontend, testing y aplicaciones.
 
+**Enfoque.** Me gusta crear soluciones limpias y estructuradas.
 
+**Problemas que me interesan.** Los que ordenan la información de un negocio: inventario, ventas, usuarios y permisos, como en Inventario Pro.
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Habilidades Técnicas</b>
+<h2><img src="assets/h-tecnologias.svg" width="100%" alt="02 Tecnologías"></h2>
 
-🧰 Lenguajes
-<div align="center">
+<img src="assets/tech.svg" width="100%" alt="Tecnologías por categoría. Web: HTML y CSS (intermedio); JavaScript, TypeScript, React y PHP (básico). Programación general: Python (intermedio); C++ y Kotlin (básico). Datos: MySQL (básico). Entorno de trabajo: Docker y Git y GitHub (intermedio).">
 
-!Java
-!JavaScript
-!Python
-!C++
-!Kotlin
-!HTML5
-!CSS3
-!SQL
-</div>
+<h2><img src="assets/h-proyecto.svg" width="100%" alt="03 Proyecto destacado"></h2>
 
-🛠️ Herramientas & Tecnologías
-<div align="center">
+<!-- Proyecto -->
+<img src="assets/project-inventario-pro.svg" width="100%" alt="Inventario Pro, proyecto de tesis desarrollado en equipo, terminado y presentado. Arquitectura dentro de Docker: interfaz con React, TypeScript y Tailwind CSS; servidor con PHP y Apache; base de datos MySQL.">
 
-!Git
-!GitHub
-!VSCode
-!Android Studio
-!Discord
-!Terminal
+**Qué resuelve.** Reúne en un solo sistema la gestión del inventario y las ventas de un negocio, con acceso diferenciado por usuario y rol.
 
-!XAMPP
-!Apache
-!MySQL
-!Docker
-</div>
+**Funcionalidades.** Gestión de inventario y productos, registro de ventas, y administración de usuarios y roles.
 
-🤝 Habilidades Sociales
-<div align="center">
+**Acceso.** El repositorio y la demostración son privados.
+<!-- /Proyecto -->
 
-🌟 Trabajo en equipo — Colaboro y aporto en ambientes cooperativos
-🗣️ Comunicación clara — Explico ideas técnicas de forma sencilla
-🧩 Resolución de problemas — Pienso de manera lógica y estructurada
-⏳ Gestión del tiempo — Organizo tareas de forma eficiente
-🎯 Responsabilidad y compromiso — Cumplo objetivos y entregas
-📚 Aprendizaje continuo — Me adapto rápido a nuevas tecnologías
-⚡ Adaptabilidad — Puedo trabajar en diferentes entornos y herramientas  
-</div>
+<h2><img src="assets/h-formacion.svg" width="100%" alt="04 Formación e idiomas"></h2>
 
-🌐 Idiomas
-<div align="center">
+**Formación.** Ingeniería de Sistemas, Universidad Antonio Nariño (Bogotá, Colombia). Último semestre.
 
-<img src="https://img.shields.io/badge/Español-Nativo-7a00ff?style=for-the-badge">
-<img src="https://img.shields.io/badge/Inglés-B1/B2-4b0082?style=for-the-badge">
+**Idiomas.** Español: nativo. Inglés: B1/B2, sin certificación.
 
-</div>
+<h2><img src="assets/h-contacto.svg" width="100%" alt="05 Contacto"></h2>
 
-📊 GitHub Stats
-<div align="center">
+<a href="https://naren2608.github.io/NAREN-CV/"><img src="assets/btn-cv.svg" height="40" alt="Hoja de vida"></a>
+<a href="https://www.linkedin.com/in/naren-stiven-cipagauta-estupiñan-002311174/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
+<a href="mailto:narenestivencipagauta13@gmail.com"><img src="assets/btn-correo.svg" height="40" alt="Correo"></a>
 
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=Naren2608&show_icons=true&title_color=A878FF&icon_color=7A00FF&text_color=D3D3D3&bg_color=00000000&rank_icon=percentile"/>
+narenestivencipagauta13@gmail.com
 
-<img width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naren2608&layout=compact&title_color=A878FF&icon_color=7A00FF&text_color=D3D3D3&bg_color=00000000"/>
-
-</div>
-
-📄 Hoja de Vida
-<div align="center">
-✨ Aquí puedes consultar mi hoja de vida en un formato moderno, profesional y adaptable.  
-Incluye información sobre mi perfil, proyectos, habilidades técnicas y experiencia académica.✨
-
-
-
-
-<a href="https://naren2608.github.io/NAREN-CV/">
-  <img src="https://img.shields.io/badge/Ver%20Hoja%20de%20Vida-7a00ff?style=for-the-badge&logo=files&logoColor=white">
-</a>
-
-</div>
-
-🤝 Contacto
-<div align="center">
-
-<a href="mailto:narenestivencipagauta13@gmail.com">
-  <img src="https://img.shields.io/badge/Correo%20Electrónico-7a00ff?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/naren-stiven-cipagauta-estupiñan-002311174/">
-  <img src="https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<img src="https://img.shields.io/badge/+57%203113507862-5a0099?style=for-the-badge&logo=phone&logoColor=white">
-
-</div>
-
-<div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7a00ff&section=footer&reversal=true"/>
-</div>
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Soluciones limpias y estructuradas.">
+</p>
