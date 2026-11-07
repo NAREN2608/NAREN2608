@@ -7,5 +7,5 @@
     @media (prefers-reduced-motion:reduce){.c{animation:none}}
   </style>
   <rect x="1" y="1" width="1038" height="74" rx="16" fill="#0E0C1C" stroke="#2C2756" stroke-width="1.5"/>
-  <text x="30" y="46"><tspan fill="#34D399">naren@bogota</tspan><tspan fill="#A78BFA">:~$ </tspan><tspan fill="#F5F3FF" font-weight="500">echo "Tu nuevo texto aquí"</tspan><tspan class="c" fill="#A78BFA"> ▌</tspan></text>
+  <text x="30" y="46"><tspan fill="#34D399">naren@sce</tspan><tspan fill="#A78BFA">:~$ </tspan><tspan fill="#F5F3FF" font-weight="500">echo "Ingeniero en Sistemas y Computacion"</tspan><tspan class="c" fill="#A78BFA"> ▌</tspan></text>
 </svg>
