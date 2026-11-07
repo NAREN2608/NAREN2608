@@ -1,45 +1,50 @@
-<p align="center">
-  <img src="assets/cover.svg" width="100%" alt="Naren Stiven Cipagauta. Desarrollo de software y web. Ingeniería de Sistemas, Universidad Antonio Nariño, Bogotá. Buscando prácticas, oportunidades y proyectos.">
-</p>
+<div align="center">
 
-<h2><img src="assets/h-perfil.svg" width="100%" alt="01 Perfil"></h2>
+<img src="assets/banner.svg" width="100%" alt="Perfil de Naren Stiven Cipagauta en una ventana de terminal: desarrollo de software y web, Bogotá, Colombia. Estudiante de último semestre de Ingeniería de Sistemas en la Universidad Antonio Nariño. Nivel intermedio: Python, HTML y CSS, Docker, Git y GitHub. Nivel básico: JavaScript, TypeScript, React, PHP, MySQL, C++ y Kotlin. Español nativo, inglés B1/B2. Buscando prácticas y proyectos.">
 
-Mi orientación es el desarrollo de software y el desarrollo web: backend, frontend, testing y aplicaciones.
+<br>
 
-**Enfoque.** Me gusta crear soluciones limpias y estructuradas.
+<img src="assets/typing.svg" width="100%" alt="Desarrollo de software y desarrollo web. Backend, frontend y testing. Inventario Pro: tesis terminada y presentada. Buscando prácticas, oportunidades y proyectos.">
 
-**Problemas que me interesan.** Los que ordenan la información de un negocio: inventario, ventas, usuarios y permisos, como en Inventario Pro.
+<br>
 
-<h2><img src="assets/h-tecnologias.svg" width="100%" alt="02 Tecnologías"></h2>
+<a href="https://naren2608.github.io/NAREN-CV/"><img src="assets/btn-cv.svg" height="52" alt="Hoja de vida"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/naren-stiven-cipagauta-estupiñan-002311174/"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="mailto:narenestivencipagauta13@gmail.com"><img src="assets/btn-correo.svg" height="52" alt="Correo"></a>
 
-<img src="assets/tech.svg" width="100%" alt="Tecnologías por categoría. Web: HTML y CSS (intermedio); JavaScript, TypeScript, React y PHP (básico). Programación general: Python (intermedio); C++ y Kotlin (básico). Datos: MySQL (básico). Entorno de trabajo: Docker y Git y GitHub (intermedio).">
+</div>
 
-<h2><img src="assets/h-proyecto.svg" width="100%" alt="03 Proyecto destacado"></h2>
+<h2><img src="assets/h-sobre-mi.svg" width="100%" alt="01 Sobre mí"></h2>
 
-<!-- Proyecto -->
-<img src="assets/project-inventario-pro.svg" width="100%" alt="Inventario Pro, proyecto de tesis desarrollado en equipo, terminado y presentado. Arquitectura dentro de Docker: interfaz con React, TypeScript y Tailwind CSS; servidor con PHP y Apache; base de datos MySQL.">
+Soy **Naren**, estudiante de último semestre de Ingeniería de Sistemas en la Universidad Antonio Nariño (Bogotá, Colombia). Me oriento al desarrollo de software y web: backend, frontend, testing y aplicaciones.
 
-**Qué resuelve.** Reúne en un solo sistema la gestión del inventario y las ventas de un negocio, con acceso diferenciado por usuario y rol.
+- **Enfoque.** Me gusta crear soluciones limpias y estructuradas.
+- **Problemas que me interesan.** Los que ordenan la información de un negocio: inventario, ventas, usuarios y permisos, como en Inventario Pro.
+- **Ahora.** Terminando la carrera y buscando prácticas, oportunidades y proyectos.
+- **Idiomas.** Español nativo; inglés B1/B2, sin certificación.
 
-**Funcionalidades.** Gestión de inventario y productos, registro de ventas, y administración de usuarios y roles.
+<h2><img src="assets/h-stack.svg" width="100%" alt="02 Stack"></h2>
 
-**Acceso.** El repositorio y la demostración son privados.
+<img src="assets/radar.svg" width="100%" alt="Radar de nivel de uso, autodeclarado. Anillo exterior, nivel intermedio: HTML y CSS, Python, Docker, Git y GitHub. Anillo interior, nivel básico: JavaScript, TypeScript, React, PHP, MySQL, C++ y Kotlin.">
+
+<h2><img src="assets/h-proyectos.svg" width="100%" alt="03 Proyectos"></h2>
+
+<!-- Proyecto: duplicar este bloque y su ficha en /assets para agregar otro -->
+<img src="assets/card-inventario-pro.svg" width="100%" alt="Inventario Pro, tesis en equipo, terminada y presentada; repositorio privado. Sistema para gestionar inventario, productos y ventas, con usuarios y roles de acceso. React, TypeScript, Tailwind CSS, PHP, Apache, MySQL y Docker.">
 <!-- /Proyecto -->
 
-<h2><img src="assets/h-formacion.svg" width="100%" alt="04 Formación e idiomas"></h2>
+<a href="https://naren2608.github.io/NAREN-CV/"><img src="assets/card-cv.svg" width="100%" alt="Hoja de vida web: mi hoja de vida en un formato moderno, profesional y adaptable. HTML y GitHub Pages."></a>
 
-**Formación.** Ingeniería de Sistemas, Universidad Antonio Nariño (Bogotá, Colombia). Último semestre.
+<h2><img src="assets/h-actividad.svg" width="100%" alt="04 Actividad"></h2>
 
-**Idiomas.** Español: nativo. Inglés: B1/B2, sin certificación.
+<img src="assets/activity.svg" width="100%" alt="Actividad en GitHub (repositorios públicos, contribuciones de los últimos 12 meses, estrellas y año de ingreso) y lenguajes más usados en mis repositorios públicos, sin forks. Se actualiza automáticamente.">
 
 <h2><img src="assets/h-contacto.svg" width="100%" alt="05 Contacto"></h2>
 
-<a href="https://naren2608.github.io/NAREN-CV/"><img src="assets/btn-cv.svg" height="40" alt="Hoja de vida"></a>
-<a href="https://www.linkedin.com/in/naren-stiven-cipagauta-estupiñan-002311174/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
-<a href="mailto:narenestivencipagauta13@gmail.com"><img src="assets/btn-correo.svg" height="40" alt="Correo"></a>
-
-narenestivencipagauta13@gmail.com
+Si quieres conversar sobre prácticas, oportunidades o proyectos, escríbeme a narenestivencipagauta13@gmail.com.
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Soluciones limpias y estructuradas.">
+<img src="assets/footer.svg" width="100%" alt="naren@bogota: echo Soluciones limpias y estructuradas.">
 </p>
+
+<!-- Pendiente de confirmar nivel antes de listarlos en el stack: Java y SQL. -->
